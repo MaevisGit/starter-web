@@ -8,6 +8,9 @@ This example is to show different parts if the Git repository and various comman
 
 ## Purpose
 
+As stated above, the main purpose is to provide examples for Git training demos. 
 
 
-## Contribute
+## Deployment
+
+This is a simple web project, deployment can be on anly web server or even local file system.
